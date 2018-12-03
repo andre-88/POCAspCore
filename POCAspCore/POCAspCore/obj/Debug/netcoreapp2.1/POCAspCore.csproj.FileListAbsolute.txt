@@ -1,0 +1,14 @@
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\bin\Debug\netcoreapp2.1\POCAspCore.deps.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\bin\Debug\netcoreapp2.1\POCAspCore.runtimeconfig.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\bin\Debug\netcoreapp2.1\POCAspCore.runtimeconfig.dev.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\bin\Debug\netcoreapp2.1\POCAspCore.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\bin\Debug\netcoreapp2.1\POCAspCore.pdb
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.RazorAssemblyInfo.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.RazorAssemblyInfo.cs
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.AssemblyInfo.cs
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.RazorTargetAssemblyInfo.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCore\obj\Debug\netcoreapp2.1\POCAspCore.pdb

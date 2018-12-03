@@ -1,0 +1,17 @@
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.csprojAssemblyReference.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.AssemblyInfoInputs.cache
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.AssemblyInfo.cs
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCoreUnitTest.deps.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCoreUnitTest.runtimeconfig.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCoreUnitTest.runtimeconfig.dev.json
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCoreUnitTest.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCore.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCore.pdb
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.csproj.CopyComplete
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\bin\Debug\netcoreapp2.1\POCAspCoreUnitTest.pdb
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.dll
+C:\Users\Andre\Documents\POCAspCore\POCAspCore\POCAspCoreUnitTest\obj\Debug\netcoreapp2.1\POCAspCoreUnitTest.pdb
