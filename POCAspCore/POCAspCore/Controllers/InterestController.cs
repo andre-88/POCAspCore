@@ -16,6 +16,12 @@ namespace POCAspCore.Controllers
         }
 
         [HttpGet]
+        public ActionResult<string> Index()
+        {
+            return ">>> Loaded!\n api/interest/showmethecode \n api/interest/calculajuros?valorinicial=100&meses=5";
+        }
+
+        [HttpGet]
         [Route("showmethecode")]
         public ActionResult<string> GetShowMeTheCode()
         {

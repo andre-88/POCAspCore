@@ -26,7 +26,7 @@ namespace POCAspCoreUnitTest.Business
             {
                 var result = interestBo.getCompoundInterestValue(valorinicial, meses, ratePercentage);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 hasException = 1;
             }
@@ -49,7 +49,7 @@ namespace POCAspCoreUnitTest.Business
                 var result = interestBo.getCompoundInterestValue(valorinicial, meses, ratePercentage);
                 Assert.Equal("105,10", result);
             }
-            catch (Exception ex)
+            catch (Exception)
             {
                 hasException = 1;
             }

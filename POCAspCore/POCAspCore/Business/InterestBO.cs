@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Configuration;
+using POCAspCore.RateCalculator;
 using System;
-using System.Globalization;
 
 namespace POCAspCore.Business
 {
@@ -38,8 +38,9 @@ namespace POCAspCore.Business
             if(ratePercentage < 0 || ratePercentage > 100)
                 throw new ArgumentOutOfRangeException("O parametro juros e invalido.");
 
-
-            var result = Convert.ToDouble(initialValue) * Math.Pow((1.0 + (ratePercentage / 100.0)), period);
+            var rate = new RateFactory().Create(RateType.InterestCompound);
+            rate.Load(initialValue, period, ratePercentage);
+            var result = rate.Calculate();
 
             var rounded = Math.Round(result, 2);
 
